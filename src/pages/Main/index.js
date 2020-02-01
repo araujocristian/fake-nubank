@@ -35,7 +35,7 @@ export default function Main() {
           <CardFooter>
             <FaIcon name="comments-dollar" size={20} color="#aaa" />
             <Annotation>
-              Transferência de R$ 20,00 recebida de Elow Musk às 14:34h.
+              Transferência de R$ 20.000,00 recebida de Elon Musk às 14:34h.
             </Annotation>
             <Icon name="keyboard-arrow-right" size={20} color="#aaa" />
           </CardFooter>
