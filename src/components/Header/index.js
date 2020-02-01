@@ -1,5 +1,5 @@
 import React from 'react';
-import Icon from 'react-native-vector-icons/MaterialIcons';
+import Icon from 'react-native-vector-icons/Feather';
 
 import { Container, Top, Logo, Title } from './styles';
 
@@ -12,7 +12,7 @@ export default function Header() {
         <Logo source={logo} />
         <Title>Cristian</Title>
       </Top>
-      <Icon name="keyboard-arrow-down" size={20} color="#fff" />
+      <Icon name="chevron-down" size={20} color="#fff" />
     </Container>
   );
 }
