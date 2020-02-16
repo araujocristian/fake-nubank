@@ -9,16 +9,16 @@
 <p align="center">Nesse projeto foi desenvolvido do zero um app em React Native recriando a interface do NuBank com suas animações.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/araujocristian/fake-uber?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/araujocristian/fake-nubank?color=%2304D361">
 
   <a href="https://rocketseat.com.br">
-    <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/araujocristian/fake-uber?color=%2304D361">
+    <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/araujocristian/fake-nubank?color=%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-02/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/araujocristian/fake-uber?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/araujocristian/fake-nubank?style=social">
   </a>
 </p>
 
@@ -48,8 +48,7 @@
 ## Imagens do projeto
 
 <p align="center">
-  <img height="420" src="https://github.com/araujocristian/fake-uber/raw/master/images/fake-uber-gif1.gif"/>
-  <img height="420" src="https://github.com/araujocristian/fake-uber/raw/master/images/fake-uber-gif2.gif"/>
+  <img height="420" src="https://github.com/araujocristian/fake-nubank/raw/master/images/fake-nubank-gif.gif"/>
 </p>
 
 ## Como executar o projeto
