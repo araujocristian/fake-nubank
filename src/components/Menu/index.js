@@ -29,7 +29,7 @@ export default function Menu({ translateY }) {
           value="https://nubank.com.br"
           size={80}
           backgroundColor="#fff"
-          color="#8b10ae"
+          color="#8a05be"
         />
       </Code>
       <Nav>
